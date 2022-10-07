@@ -1,13 +1,11 @@
-<div style="text-align: center;">
-
-# Hi <img src="https://cdn.jsdelivr.net/gh/mikeah2011/oss@main/uPic/waving.gif" style="zoom: 15%;" />, I'm Michael
+<div align="center">
+    <h1 align="center">Hi <img width="35" src="https://cdn.jsdelivr.net/gh/mikeah2011/oss@main/uPic/waving.gif">, I'm Michael</h1>
 
 [//]: # (![]&#40;https://profile-counter.glitch.me/mikeah2011/count.svg&#41;)
-
-[//]: # (#### 一名自由开发者，请参阅[我的简历]&#40;https://cdn.jsdelivr.net/gh/mikeah2011/oss@main/uPic/michael_cv.pdf&#41;了解更多信息)
+[//]: # (<h4 align="center">一名自由开发者，请参阅<a href="https://cdn.jsdelivr.net/gh/mikeah2011/oss@main/uPic/michael_cv.pdf" target="_blank">我的简历</a>了解更多信息</h4>)
+</div>
 
 [![贪吃蛇](https://cdn.jsdelivr.net/gh/mikeah2011/oss@main/uPic/grid-snake.svg)](https://mikeah2011.github.io/mikeah2011)
-</div>
 
 -----
 <details>
