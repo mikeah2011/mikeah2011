@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mikeah2011.github.io/cv/"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-R%C3%A9sum%C3%A9-0e7c86?style=for-the-badge" alt="简历"></a>
+  <a href="https://mikeah2011.github.io/cv/share/en.html?to=GitHub"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-R%C3%A9sum%C3%A9-0e7c86?style=for-the-badge" alt="简历"></a>
   <a href="https://mikeah2011.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-2b6cb0?style=for-the-badge" alt="博客"></a>
   <a href="https://www.linkedin.com/in/michael-ma-923223116/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mikeah2011@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
