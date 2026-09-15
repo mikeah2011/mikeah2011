@@ -18,11 +18,13 @@
 ### 关于我
 
 - 🏢 最近一份工作，就职于 **KKday**（全球旅游体验平台），负责 B2C 核心交易链路与联盟营销平台
+- 💼 目前已离职，正在寻找下一份机会，希望继续在复杂业务系统、工程效率与 AI 工程化方向深耕
 - ⚙️ 主力栈 **PHP / Laravel**，近两年重心转向 **TypeScript / Node.js** 与 AI 工程化
 - 🧭 擅长领域：订单交易链路、联盟分润结算、动态定价、BFF 与微服务高可用设计
 - 🔥 线上稳定性：熔断限流、异常兜底、故障根因定位与性能调优
-- 🤖 在做的事：把 AI 真正嵌进研发流程——团队健康监控与根因分析、多 AI 审查机器人的编排收敛
-- 📍 上海 or 一线城市 or 全球远程
+- 🤖 AI 工程实践：把 AI 真正嵌进研发流程，探索团队健康监控与根因分析、多 AI 审查机器人的编排，以及可维护的自动化工具
+- 🛠️ 开源与自动化：通过 `swagger-notes`、`homebrew-autoupdate`、`mac-sentry` 等项目沉淀日常工程经验，减少重复劳动
+- 🌍 正在练习英语口语，目标是全球远程，或北京 / 上海 / 广州 / 深圳坐班
 
 ### 开源贡献
 
@@ -34,6 +36,8 @@
 
 | 项目 | 说明 | 技术 |
 | --- | --- | --- |
+| [**mac-sentry**](https://github.com/mikeah2011/mac-sentry) | macOS 健康巡检工具，覆盖 10 类系统检查，提供健康评分与趋势、原生通知及分级自动修复 | Bash · macOS · launchd |
+| [**rc_mikeah2011**](https://github.com/mikeah2011/rc_mikeah2011) | 企业内部消息通知系统 MVP，基于数据库队列实现可靠 HTTP 投递，支持接入幂等、有限重试、投递记录与失败后人工补推 | PHP · Laravel · PostgreSQL |
 | [**swagger-notes**](https://github.com/mikeah2011/swagger-notes) | Laravel 扩展包，一键生成 Swagger-PHP 注释并产出 OpenAPI 文件<br>已发布至 Packagist（`laravel-toolbox/swagger-notes`），累计下载 **2.6k+** | PHP · Laravel |
 | [**技术博客**](https://github.com/mikeah2011/mikeah2011.github.io) | 1300+ 篇技术文章，覆盖 PHP/架构/数据库/AI 工程，至今仍在更新<br>自建 Hexo 构建脚本与文章质量校验流水线 | Hexo · JavaScript |
 | [**homebrew-autoupdate**](https://github.com/mikeah2011/homebrew-autoupdate) | macOS 上自动更新 Homebrew 应用，支持自定义调度时间与环境变量回退 | Shell |
